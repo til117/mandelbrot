@@ -3,6 +3,8 @@ The aim of the project is to visualize the mandelbrot set, e.g. by looping a plo
 
 It is written in C, and is a project for a programming course at KTH.
 
+# Description
+
 Firstly, it is important to understand the Mandelbrot set. It is a set of iterations performed on the function: 
 
 Z_(n+1)=Z_n^2+C where C is a complex number and Z_0=0.
