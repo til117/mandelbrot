@@ -1,0 +1,6 @@
+# Instructions
+
+To run the code - type ./main in the terminal in ubuntu.
+To change colors - change the value 0.24 in the rgb section.
+To change zooming point - change the value of re_point_zoom and im_point_zoom.
+
